@@ -1,0 +1,7 @@
+dig @198.41.0.4 www.bbc.co.uk +norecurse
+dig @213.248.216.1 www.bbc.co.uk +norecurse
+dig @198.51.44.9 www.bbc.co.uk +norecurse
+dig @198.51.44.9 www.bbc.co.uk.pri.bbc.co.uk +norecurse
+dig @198.41.0.4 bbc.map.fastly.net +norecurse
+dig @192.5.6.30 bbc.map.fastly.net +norecurse
+dig @23.235.32.32 bbc.map.fastly.net +norecurse
